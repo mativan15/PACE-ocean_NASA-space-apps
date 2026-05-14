@@ -1,4 +1,4 @@
-# App Space Apps
+# PACE learning App for NASA Space Apps
 
 App Space Apps is a Flutter educational app prototype about NASA PACE-related ocean and ecosystem science. It introduces learners to topics such as oceans, phytoplankton, aerosols, coral reefs, and satellite-based Earth observation through a visual mobile experience with quizzes, avatar personalization, and an interactive map.
 
